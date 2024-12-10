@@ -1,4 +1,4 @@
-package io.github.shisiask;
+package io.github.highway;
 
 public interface HighwayVehicles {
     public void setVIN(String VIN);

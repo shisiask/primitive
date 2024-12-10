@@ -1,4 +1,4 @@
-package io.github.shisiask;
+package io.github.highway;
 
 public class MotorcycleVehicle extends Vehicle implements Motorcycle{
     private String MotorcycleType;
